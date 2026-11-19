@@ -1,0 +1,8 @@
+{
+  "test_id": "TC-001",
+  "rule": "Terminal shell in container",
+  "priority": "Notice",
+  "output": "A shell was spawned in a container",
+  "container": "demo-app",
+  "process": "sh"
+}
